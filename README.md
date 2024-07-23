@@ -8,9 +8,9 @@ Conducted product and customer analysis on SQL for a retailer of scale models of
 https://www.mysqltutorial.org/mysql-sample-database.aspx
 
 # Key Metrics
-Sales: best selling car models in low stock 
-Plan Customer: most engaged, least engaged, and new customers
-Plan Period: monthly and yearly plan
+- Sales: best selling car models in low stock 
+- Plan Customer: most engaged, least engaged, and new customers
+- Plan Period: monthly and yearly plan
 
 # Summary of Insights
 
